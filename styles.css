@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(250, 247, 244);
+    font-size:larger;
+    font-family: "Comic Sans MS", "Comic Sans";
+
+    
+}
+
+.main h1 {
+    color: rgb(234, 92, 116);
+    text-shadow: 2px 4px 10px rgb(248, 122, 122);
+    
+   
+}
+h2 {
+    margin-bottom: 0px;
+}
+.btn {
+    cursor: pointer;
+    color: rgb(91, 91, 91);
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 25px;
+    box-shadow: 12px 15px 8px grey;
+}
+
+.menu-img {
+    width:auto;
+    height: 400px;
+}
+
+
+.table1 {
+    background-color: pink;
+    border-radius: 25px;
+    padding: 4px;
+    margin-bottom: 1px;
+}
+
+.table2 {
+    background-color:rgb(149, 211, 249);
+    border-radius: 25px;
+    padding: 4px;
+    margin-bottom: 1px;
+
+}
+
+.table3 {
+    background-color: rgb(150, 234, 150);
+    border-radius: 25px;
+    padding: 4px;
+
+}
+
+.menu {
+    color: rgb(77, 76, 76);
+}
+
+.name {
+    text-align: left;
+}
+
+#margin-img {
+    margin-top: 30px;
+}
+
+.er {
+    height: 500px;
+}
+
+.massage {
+    display: inline;
+    color: palevioletred;
+}
+
+.submit {
+    cursor: pointer;
+    background-color: palevioletred;
+    border-color: transparent;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+}
